@@ -1,6 +1,6 @@
 # 📧 Email/SMS Spam Classifier
 
-A Machine Learning web app that classifies Email/SMS messages as Spam or Not Spam using NLP (TF-IDF + Multinomial Naive Bayes) with 97.97% accuracy and 100% precision. Built with Python, NLTK & Streamlit.
+A Machine Learning web app that classifies Email/SMS messages as Spam or Not Spam using NLP (TF-IDF + Multinomial Naive Bayes) with 97.1% accuracy and 100% precision. Built with Python, NLTK & Streamlit.
 
 ---
 
